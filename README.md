@@ -10,11 +10,11 @@ Curators can evolve the voting system over time through discussion in the Outrea
 On a weekly basis, issues are closed as either posted or unposted by the lead curators. 
 
 The curation team is:  
-Seth Knox *
-Jesse Schrater *
-Anne Bertuccio *
-Aeva van der Veen *
-Philippe Robin *
+* Seth Knox *
+* Jesse Schrater *
+* Anne Bertuccio *
+* Aeva van der Veen *
+* Philippe Robin *
 ... 
 
 An * indicates a lead curator.
